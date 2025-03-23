@@ -59,8 +59,21 @@ Designed interactive visualizations to analyze cinema trends, segment performanc
 Built ML models to predict metal part lifespan and classify defects, optimizing manufacturing quality control.
 #### Skills & Technologies:
 🔹 Machine Learning: Regression & Classification Models (Linear Regression, Neural Networks)
+
 🔹 Data Analysis: Feature Engineering, Model Evaluation, Hyperparameter Tuning
 
 🔹 Tools: Scikit-learn, Pandas, NumPy, Matplotlib
 #### Deliverables:
 💻 Code: https://github.com/Amrutharj98/Machine-Learning-for-Defect-Prediction
+### 📌 4. Automated Roof Damage Detection for Insurance Claims
+Built an AI-based system for roof damage detection and insurance claim automation, integrating deep learning models for roof segmentation, tile classification, and damage assessment.
+#### Skills & Technologies:
+🔹 Deep Learning: Autoencoders, UNet, YOLO, Transfer Learning
+
+🔹 Computer Vision: Image Segmentation, Object Detection
+
+🔹 Machine Learning: Feature Engineering, Model Optimization
+
+🔹 Tools: TensorFlow, OpenCV, Scikit-learn, Flask
+#### Deliverables:
+💻 Code: 
