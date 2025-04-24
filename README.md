@@ -77,3 +77,13 @@ Built an AI-based system for roof damage detection and insurance claim automatio
 🔹 Tools: TensorFlow, OpenCV, Scikit-learn, Flask
 #### Deliverables:
 💻 Code: https://github.com/Amrutharj98/Roof-Damage-Detection
+### 📌 5. Personalised Food Recommendation System for a Healthy Lifestyle
+Created a personalised nutrition recommender system that suggests healthy recipes based on user details and dietary needs. 
+#### Skills & Technologies:
+🔹 Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
+
+🔹 Data Preprocessing, Feature Engineering, GUI Development
+
+🔹 Dataset: ~500,000 recipes with nutritional info from Kaggle
+#### Deliverables:
+💻 Code: 
