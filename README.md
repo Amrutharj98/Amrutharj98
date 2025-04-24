@@ -86,4 +86,4 @@ Created a personalised nutrition recommender system that suggests healthy recipe
 
 🔹 Dataset: ~500,000 recipes with nutritional info from Kaggle
 #### Deliverables:
-💻 Code: 
+💻 Code: https://github.com/Amrutharj98/Personalised-Food-Recommendation-System-for-a-Healthy-Lifestyle
